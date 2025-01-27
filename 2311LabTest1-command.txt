@@ -1,1 +1,2 @@
 Hello, This is Lab test 1
+This is new line
